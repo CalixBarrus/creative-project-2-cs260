@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box;
+
+}
+
+
+#photo {
+    width: 100%;
+    height: auto;
+}
